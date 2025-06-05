@@ -8,7 +8,7 @@ device_id,vendor_id,product_id,metadata_product,metadata_description,metadata_se
 *USB\VID_2341&PID_8037*,2341,8037,Arduino Pro Micro,keystroke injection tool,high,https://lothardware.com.tr/arduino-pro-micro/,,
 *USB\VID_16D0&PID_0753*,16D0,0753,Digispark Attiny85,keystroke injection tool,high,https://lothardware.com.tr/digispark-attiny85/,,
 *USB\VID_16D0&PID_0753*,16D0,0753,Digispark Attiny85,keystroke injection tool,high,https://lothardware.com.tr/digispark-attiny85/,,
-*USB\VID_413C&PID_301A\5&ba996e2&0&1*,16D0,0753,Lilypad Attiny85,keystroke injection tool,high,https://lothardware.com.tr/lilypad-attiny85/,,
+*USB\VID_413C&PID_301A\5&ba996e2&0&1*,16D0,0753,LVNL Attiny85,keystroke injection tool,high,https://lothardware.com.tr/lilypad-attiny85/,,
 *USB\VID_0BDA&PID_8152\00E04C3659E9*,0BDA,8152,Hak5 Lan turtle,ethernet extension device providing remote Access and MITM capabilities,critical,N/A,reported by @eki_erk,
 *USB\VID_0BDA&PID_8152\00E04C361BDE*,0BDA,8152,Hak5 Lan turtle,ethernet extension device providing remote Access and MITM capabilities,critical,N/A,tested by @mthcht - first edition pineapple,TP-LINK Wifi USB extention Realtek USB FE Family Controller
 *USB\VID_0B95&PID_772A\90CEA2*,0B95,772A,Hak5 Wifi Pineapple,rogue access point suite for advanced man-in-the-middle attacks,critical,N/A,tested by @mthcht,ASIX AX88772A USB2.0 to Fast Ethernet Adapter
