@@ -8,7 +8,6 @@ HID\VID_03EB&PID_2403&REV_0100,03EB,2403,Hak5 Rubber Ducky,keystroke injection t
 USB\VID_2341&PID_8037,2341,8037,Arduino Pro Micro,keystroke injection tool,high,https://lothardware.com.tr/arduino-pro-micro/,,
 USB\VID_16D0&PID_0753,16D0,0753,Digispark Attiny85,keystroke injection tool,high,https://lothardware.com.tr/digispark-attiny85/,,
 USB\VID_16D0&PID_0753,16D0,0753,Digispark Attiny85,keystroke injection tool,high,https://lothardware.com.tr/digispark-attiny85/,,
-USB\VID_413C&PID_301A\5&ba996e2&0&1,16D0,0753,LVNL Attiny85,keystroke injection tool,high,https://lothardware.com.tr/lilypad-attiny85/,,
 USB\VID_0BDA&PID_8152\00E04C3659E9,0BDA,8152,Hak5 Lan turtle,ethernet extension device providing remote Access and MITM capabilities,critical,N/A,reported by @eki_erk,
 USB\VID_0BDA&PID_8152\00E04C361BDE,0BDA,8152,Hak5 Lan turtle,ethernet extension device providing remote Access and MITM capabilities,critical,N/A,tested by @mthcht - first edition pineapple,TP-LINK Wifi USB extention Realtek USB FE Family Controller
 USB\VID_0B95&PID_772A\90CEA2,0B95,772A,Hak5 Wifi Pineapple,rogue access point suite for advanced man-in-the-middle attacks,critical,N/A,tested by @mthcht,ASIX AX88772A USB2.0 to Fast Ethernet Adapter
@@ -26,3 +25,4 @@ USB\VID_0483&PID_5740*,0483,5740,Flipper Zero,Flipper Zero is a portable multi-t
 HID\VID_1B4F&PID_9207*,1B4F,9207,Cactus WHID,advanced keystroke injection device,critical,https://github.com/whid-injector/WHID,https://lothardware.com.tr/cactus-whid/,
 USB\VID_1B4F&PID_9208*,1B4F,9208,Cactus WHID,advanced keystroke injection device,critical,https://github.com/whid-injector/WHID/blob/d252ebbc1cf80f1ba415216153074f9dff7cf374/Payloads/windows/WinFFCredsExfil.txt#L8,https://lothardware.com.tr/cactus-whid/,
 USB\VID_1915&PID_520C&MI_00\6&20A3E423*,1915,520C,Nordic NRF52840,Logitech Unifying impersonator - used for keystroke injections,medium,https://medium.com/@enesilhaydin/mini-mini-logitech-rubber-ducky-6016c72916eb,https://lothardware.com.tr/nordic-nrf52840/,
+USB\VID_413C&PID_301A\5&ba996e2&0&1,Test Dummy Device
