@@ -25,4 +25,4 @@ USB\VID_0483&PID_5740*,0483,5740,Flipper Zero,Flipper Zero is a portable multi-t
 HID\VID_1B4F&PID_9207*,1B4F,9207,Cactus WHID,advanced keystroke injection device,critical,https://github.com/whid-injector/WHID,https://lothardware.com.tr/cactus-whid/,
 USB\VID_1B4F&PID_9208*,1B4F,9208,Cactus WHID,advanced keystroke injection device,critical,https://github.com/whid-injector/WHID/blob/d252ebbc1cf80f1ba415216153074f9dff7cf374/Payloads/windows/WinFFCredsExfil.txt#L8,https://lothardware.com.tr/cactus-whid/,
 USB\VID_1915&PID_520C&MI_00\6&20A3E423*,1915,520C,Nordic NRF52840,Logitech Unifying impersonator - used for keystroke injections,medium,https://medium.com/@enesilhaydin/mini-mini-logitech-rubber-ducky-6016c72916eb,https://lothardware.com.tr/nordic-nrf52840/,
-USB\VID_413C&PID_301A\5&ba996e2&0&1,Test Dummy Device,,,,,,,
+USB\VID_413C&PID_301A\5&ba996e2&0&1,,,Test Dummy Device,,,
